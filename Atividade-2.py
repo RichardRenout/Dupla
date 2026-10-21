@@ -1,6 +1,10 @@
 import os
 os.system("cls")
 
+
+print("Feito por: Juan santos")
+print("R.A.: 025.029273")
+
 dias = ["Segunda-feira", "Terça-feira", "Quarta-feira", "Quinta-feira", "Sexta-feira", "Sábado", "Domingo"]
 
 temperaturas = []
